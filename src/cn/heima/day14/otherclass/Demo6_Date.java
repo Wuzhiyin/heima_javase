@@ -15,7 +15,7 @@ public class Demo6_Date {
 	 * public void setTime(long time)
 	 */
 	public static void main(String[] args) {
-		//demo1();
+		demo1();
 		demo2();
 		Date d1 = new Date();
 		d1.setTime(1000);								//设置毫秒值,改变时间对象
